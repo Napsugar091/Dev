@@ -1,0 +1,16 @@
+body{
+    font-family: 'Clicker Script', cursive;
+    font-size: 2em;
+}
+img {
+    width: 150px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+    font-size: 25px;
+}
